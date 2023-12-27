@@ -1,7 +1,7 @@
-> If you have any questions, please contact fischertechnik-technik@fischer.de
+> If you have any questions, please contact bogdan.serban3105@gmail.com
 
-# fischertechnik Training Factory Industry 4.0 24V (en)
-This project contains the PLC programs, the IOT gateway SD card image with [Node-RED](https://nodered.org/) flows and the TXT gateway C program for the fischertechnik [**Training Factory Industry 4.0 24V**](https://www.fischertechnik.de/en/products/simulating/training-models/554868-sim-training-factory-industry-4-0-24v-simulation).
+# Training Factory Industry 4.0 24V (en)
+This project contains the PLC programs, the IOT gateway SD card image with [Node-RED](https://nodered.org/) flows and the TXT gateway C ).
 
 | Folder | Content |
 | --- | --- |
@@ -16,7 +16,7 @@ This project contains the PLC programs, the IOT gateway SD card image with [Node
 * TIA16 is needed to open the example files. Please see [hints for TIA15](hints_TIA15_TIA16.md) 
 
 ## Controllers
-The standard demo scenario is implemented with the [www.fischertechnik-cloud.com](https://www.fischertechnik-cloud.com). It is also possible to use the PLC program without the fischertechnik cloud. In this case the local Node-RED dashboard can be used.
+The standard demo scenario is implemented with the Google Cloud. It is also possible to use the PLC program without the cloud. In this case the local Node-RED dashboard can be used.
 
 The following diagram shows the communication between the 3 controllers PLC, TXT controller and IOT gateway (Raspberry Pi 4):
 ![overview_communication_en](doc/overview_communication_en.png "overview communication")
