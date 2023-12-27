@@ -29,7 +29,7 @@ The factory consists of the following stations:
 * **SSC**: Sensor Station with Camera
 * **HBW**: High-Bay Warehouse
 * **VGR**: Vacuum Gripper Robot
-* **DPS**: Delivery and Pickup Station
+* **DPS**: Delivery and Pickup Station with NFC and Color sensor
 * **MPO**: Multi-Processing Station with Oven
 * **SLD**: Sorting Line with Color Detection
 
